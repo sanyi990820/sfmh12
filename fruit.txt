@@ -1,4 +1,7 @@
 alma
 alma2
 korte
+<<<<<<< HEAD
 szilva
+barack
+>>>>>>> bad78da
